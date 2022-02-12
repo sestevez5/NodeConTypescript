@@ -1,5 +1,5 @@
 //------------------------------------------------------------------
-// Ejemplo2: Introducción a rxjs: Cosntrucción básica de observable, 
+// Ejemplo  2: Introducción a rxjs: Cosntrucción básica de observable, 
 // observadores y modelos de subscripción
 //------------------------------------------------------------------
 import { Observable } from 'rxjs';
