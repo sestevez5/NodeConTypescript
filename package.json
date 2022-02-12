@@ -1,0 +1,30 @@
+{
+  "name": "NodeConTypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ejemplo1": "node dist/ejemplo1.js",
+    "ejemplo2": "node dist/ejemplo2.js",
+    "ejemplo3": "node dist/ejemplo3.js",
+    "ejemplo4": "node dist/ejemplo4.js",
+    "ejemplo5": "node dist/ejemplo5.js",
+    "ejemplo6": "node dist/ejemplo6.js",
+    "ejemplo7": "node dist/ejemplo7.js",
+    "ejemplo8": "node dist/ejemplo8.js",
+    "ejemplo9": "node dist/ejemplo9.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build tsconfig.json",
+    "build:watch": "tsc --build tsconfig.json --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.2",
+    "rxjs": "^7.5.2",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.4"
+  }
+}
